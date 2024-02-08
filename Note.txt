@@ -1,0 +1,7 @@
+Xampp Port no: 3306
+
+HR username: HR@Tc
+HR Password: HR@tc123
+
+HR Assistant username: Keerthi6
+HR Assistant Password: KJ1234
